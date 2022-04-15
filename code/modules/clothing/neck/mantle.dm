@@ -67,9 +67,9 @@
 	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bos/paladin
 
 /obj/item/clothing/neck/mantle/legionr
-	name = "Legion black cape"
+	name = "Legion red cape"
 	desc = "Legion cape made from what looks like red piece of cloth, with a golden bull on the back. Most likely has a holster hidden underneath."
-	icon_state = "legioncapeb"
+	icon_state = "legioncaper"
 	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bos/paladin
 
 /obj/item/clothing/neck/mantle/chief
