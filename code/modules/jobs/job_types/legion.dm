@@ -158,13 +158,14 @@ Weapons		Lever shotgun, Grease gun, Repeater carbines, Revolvers, simple guns al
 	minimal_access = list(ACCESS_LEGION, ACCESS_CHANGE_IDS, ACCESS_LEGION_COMMAND)
 	exp_requirements = 1500
 
-/datum/outfit/job/CaesarsLegion/Legionnaire/f13orator	// 10mm Revolver, Spatha
+/datum/outfit/job/CaesarsLegion/Legionnaire/f13orator	// Automag, Spatha
 	name = "Orator"
 	jobtype = /datum/job/CaesarsLegion/Legionnaire/f13orator
-	neck = /obj/item/clothing/neck/mantle/legionr
+	neck = /obj/item/storage/belt/holster
 	shoes = /obj/item/clothing/shoes/f13/military/legion
 	suit = /obj/item/clothing/suit/armor/f13/legion/orator
 	head = /obj/item/clothing/head/helmet/f13/legion/orator
+	backpack = /obj/item/storage/backpack/legionr
 	id = /obj/item/card/id/dogtag/legorator
 	suit_store = /obj/item/gun/ballistic/automatic/pistol/automag
 	r_pocket = /obj/item/storage/bag/money/small/legofficers

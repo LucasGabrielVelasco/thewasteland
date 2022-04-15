@@ -60,18 +60,6 @@
 	icon_state = "rangercape"
 	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bos/paladin
 
-/obj/item/clothing/neck/mantle/legionb
-	name = "Legion black cape"
-	desc = "Legion cape made from what looks like black piece of cloth, with a golden bull on the back. Most likely has a holster hidden underneath."
-	icon_state = "legioncapeb"
-	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bos/paladin
-
-/obj/item/clothing/neck/mantle/legionr
-	name = "Legion red cape"
-	desc = "Legion cape made from what looks like red piece of cloth, with a golden bull on the back. Most likely has a holster hidden underneath."
-	icon_state = "legioncaper"
-	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bos/paladin
-
 /obj/item/clothing/neck/mantle/chief
 	name = "chieftains mantle"
 	desc = "A symbol of the authority of the Wayfarer Chief."
